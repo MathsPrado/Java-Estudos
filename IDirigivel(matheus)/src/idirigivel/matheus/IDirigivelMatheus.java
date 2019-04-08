@@ -34,6 +34,9 @@ public class IDirigivelMatheus {
             Bike bicicleta = new Bike(1,100,"Na casa do joao", "Na casa do matheus", 5);
             
         bicicleta.rodar(100);
+        
+        
+        
         bicicleta.percurso();
         
         
